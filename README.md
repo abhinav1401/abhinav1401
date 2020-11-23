@@ -1,10 +1,12 @@
 ### Hi there, I'm Abhinav  👋
 
 
-## I'm a Computer Science Engineer who loves to work and play with a really valuable commodity - Data!!
+## I'm a Computer Science Engineer who loves to work and play with the most valuable commodity - Data!!
+
+
+As a Computer Science Engineer with highly analytical and process-oriented mindset with strong tendency for problem solving, I am seeking the role of Data Analyst and I will be able to bring this role my strong understanding of computer science and data analysis coupled with my team work and communication skills and increase my capabilities when tackling complex problems.
 
 - 🔭 I am currently working on a Sudoku solver GUI application
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to work with great minds in a nurturing company
 - ⚡ Fun fact: I love to read and make educated guess about the future (500-600 years from now)
 
